@@ -1,0 +1,14 @@
+FÊNIX | Gestor de Tempo v5.3 (core c 5.2, Livro das Regras v5.2)
+
+Publicar no repositório Fenix-Gestor-do-Tempo (raiz): index.html e sw.js. Os demais arquivos não mudaram.
+  index.html .......................... app publicado (cópia neutra; o manual vai dentro dele)
+  fenix-gestor-de-tempo-v5.3.html ..... cópia idêntica com a versão no nome (só controle interno; não publicar)
+  sw.js ............................... service worker (cache fenix-tempo-v5.3)
+  firestore.rules ..................... sem mudança
+  fenix-gestor-de-tempo-manual-v5.3.md/.pdf ... manual do usuário (22 páginas, 21 prints em 360 px)
+  fenix-gestor-de-tempo-changelog-v5.3.pdf ... Changelog em PDF (gerado pelo core)
+
+Novidade: manual reescrito na ordem de uso, com uma seção por tela (cada campo e botão, com exemplos) e prints refeitos; seções novas de Fases e parada técnica e de Repetição.
+Esta versão não muda o app nem os dados, só o manual e o Changelog.
+
+Versão de volta (regra 70): v5.2. Voltar é recolocar index.html e sw.js da v5.2.
